@@ -1,3 +1,4 @@
+os: osx
 language: cpp
 install:
   - brew install libboost-all-dev
