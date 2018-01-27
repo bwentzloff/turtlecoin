@@ -1,2 +1,4 @@
 language: cpp
+install:
+  - brew install libboost-all-dev
 script: make
